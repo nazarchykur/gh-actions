@@ -13,4 +13,9 @@ class GhActionsApplicationTests {
         assertThat(true).isEqualTo(true);
     }
 
+    @Test
+    void test2() {
+        assertThat(true).isEqualTo(true);
+    }
+
 }
