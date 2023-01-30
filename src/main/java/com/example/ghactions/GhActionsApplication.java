@@ -9,5 +9,4 @@ public class GhActionsApplication {
     public static void main(String[] args) {
         SpringApplication.run(GhActionsApplication.class, args);
     }
-
 }
